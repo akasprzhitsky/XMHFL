@@ -1,0 +1,194 @@
+      The report of program XMHFL ver 1.14.1.5 March, 2020  Build 22.03.2020
+ 
+ Configuration nucleus
+  Z=  9. Rmol=    0.00000 a.e. Angle Teta=    0.00000 radian  Angle Fi=    0.00000 radian 
+  Z=  1. Rmol=    1.73300 a.e. Angle Teta=    0.00000 radian  Angle Fi=    0.00000 radian 
+ 
+ Function Ligands
+  Ligand Numbre= 1 Z= 1. Functions of Ligands: sigma( 1s)  sigma( 2p)  pi   ( 2p)
+ 
+ IndexHartreeFock= 1 NumbreMO= 4   N= 600  H=0.040   Rmax=    40.000  Eps=0.1D-04  Izap=  1 IreshimSO= 0 IndexExit= 0
+ Parameters setky
+    Alfa=    0.12126139   Beta= 1.000  Gamma=    0.10000000
+    R(1)=.145E-05      R(N)=    32.567
+
+ Electron configuration :     1sigma 1  2sigma 2  3sigma 2  1pi    4
+ 
+ Parameters one-centered approximation
+    1sigma 1 Ngarmonik=  35 Lmin=   0 Lkgran=  10 Lmax=  34
+    2sigma 2 Ngarmonik=  35 Lmin=   0 Lkgran=  10 Lmax=  34
+    3sigma 2 Ngarmonik=  35 Lmin=   0 Lkgran=  10 Lmax=  34
+    1pi    4 Ngarmonik=  35 Lmin=   0 Lkgran=  10 Lmax=  34
+ 
+ Structure Molecular Orbital
+
+ Molecular Orbital :     1sigma 1
+  Ligand Numbre= 1 Z= 1. Functions of Ligands: sigma( 1s)
+ 
+
+ Molecular Orbital :     2sigma 2
+  Ligand Numbre= 1 Z= 1. Functions of Ligands: sigma( 1s)
+ 
+
+ Molecular Orbital :     3sigma 2
+  Ligand Numbre= 1 Z= 1. Functions of Ligands: sigma( 1s)
+ 
+
+ Molecular Orbital :     1pi    4
+  Ligand Numbre= 1 Z= 1. Functions of Ligands: pi   ( 2p)
+ 
+ Parameters functions of ligands
+  Ligand Numbre= 1 Z= 1. Function: sigma( 1s) Ngarmonik=  35 Lmin=   0 Lmax=  34
+  Ligand Numbre= 1 Z= 1. Function: sigma( 2p) Ngarmonik=  35 Lmin=   0 Lmax=  34
+  Ligand Numbre= 1 Z= 1. Function: pi   ( 2p) Ngarmonik=  35 Lmin=   0 Lmax=  34
+ 
+ Coefficients of interaction of an electron with nucleus of a molecule
+    IS    ML1 ML2    Rcoff
+   1sigma  0   0    1.00000
+   2sigma  0   0    2.00000
+   3sigma  0   0    2.00000
+   1pi     1   1    2.00000
+   1pi    -1  -1    2.00000
+
+ Electroctatic coefficients   44(  18 Exchange )
+ Coefficients of a direct Coulomb interaction
+    IS1     IS2   ML1 ML2 ML3 ML4   Fcoff
+   1sigma  2sigma  0   0   0   0    2.00000
+   1sigma  3sigma  0   0   0   0    2.00000
+   1sigma  1pi     0   1   0   1    2.00000
+   1sigma  1pi     0  -1   0  -1    2.00000
+   2sigma  1sigma  0   0   0   0    2.00000
+   2sigma  2sigma  0   0   0   0    1.00000
+   2sigma  3sigma  0   0   0   0    4.00000
+   2sigma  1pi     0   1   0   1    4.00000
+   2sigma  1pi     0  -1   0  -1    4.00000
+   3sigma  1sigma  0   0   0   0    2.00000
+   3sigma  2sigma  0   0   0   0    4.00000
+   3sigma  3sigma  0   0   0   0    1.00000
+   3sigma  1pi     0   1   0   1    4.00000
+   3sigma  1pi     0  -1   0  -1    4.00000
+   1pi     1sigma  1   0   1   0    2.00000
+   1pi     1sigma -1   0  -1   0    2.00000
+   1pi     2sigma  1   0   1   0    4.00000
+   1pi     2sigma -1   0  -1   0    4.00000
+   1pi     3sigma  1   0   1   0    4.00000
+   1pi     3sigma -1   0  -1   0    4.00000
+   1pi     1pi     1   1   1   1    1.00000
+   1pi     1pi    -1  -1  -1  -1    1.00000
+   1pi     1pi     1  -1   1  -1    2.00000
+   1pi     1pi    -1   1  -1   1    2.00000
+   1pi     1pi     1  -1  -1   1   -1.00000
+   1pi     1pi    -1   1   1  -1   -1.00000
+ 
+ Coefficients of an exchange Coulomb interaction
+    IS1     IS2   ML1 ML2 ML3 ML4   Gcoff
+   1sigma  2sigma  0   0   0   0   -1.00000
+   1sigma  3sigma  0   0   0   0   -1.00000
+   1sigma  1pi     0   1   1   0   -1.00000
+   1sigma  1pi     0  -1  -1   0   -1.00000
+   2sigma  1sigma  0   0   0   0   -1.00000
+   2sigma  3sigma  0   0   0   0   -2.00000
+   2sigma  1pi     0   1   1   0   -2.00000
+   2sigma  1pi     0  -1  -1   0   -2.00000
+   3sigma  1sigma  0   0   0   0   -1.00000
+   3sigma  2sigma  0   0   0   0   -2.00000
+   3sigma  1pi     0   1   1   0   -2.00000
+   3sigma  1pi     0  -1  -1   0   -2.00000
+   1pi     1sigma  1   0   0   1   -1.00000
+   1pi     1sigma -1   0   0  -1   -1.00000
+   1pi     2sigma  1   0   0   1   -2.00000
+   1pi     2sigma -1   0   0  -1   -2.00000
+   1pi     3sigma  1   0   0   1   -2.00000
+   1pi     3sigma -1   0   0  -1   -2.00000
+ 
+  Low bound for one-electron energy (Ry)
+  EnergyXF=  100.00000 Ry
+ 
+ Parameters one-centered approximation for zero approximation
+    1sigma 1 Ngarmonik=  25 Lmin=   0 Lkgran=  10 Lmax=  24
+    2sigma 2 Ngarmonik=  25 Lmin=   0 Lkgran=  10 Lmax=  24
+    3sigma 2 Ngarmonik=  25 Lmin=   0 Lkgran=  10 Lmax=  24
+    1pi    4 Ngarmonik=  25 Lmin=   0 Lkgran=  10 Lmax=  24
+  ***********************************************************************
+  NumbreIteraction=     1 The mode of linkage has changed IreshimSO=   2
+  ***********************************************************************
+ Energy right          11           3
+ ExfSpravo           1   2.97572263088065     
+
+    n        Energy      Radius     Teta       Norm 
+  1sigma  -60.285929    0.168889 -0.672E-06  0.305E-01
+  2sigma   -4.673311    0.954730 -0.166E-04  0.932E+00
+  3sigma   -3.003277    1.015577 -0.323E-03  0.744E+02
+  1pi      -2.837232    0.927108  0.254E-05  0.110E+01
+ 
+  Direct Coulomb interaction in a.u.
+ 
+    F 1( 1sigma 2sigma)= 1.3681303
+    F 1( 1sigma 3sigma)= 1.3445639
+    F 1( 1sigma 1pi   )= 1.4425117
+    F 2( 1sigma 1pi   )= 1.4425117
+    F 1( 2sigma 2sigma)= 0.9709582
+    F 1( 2sigma 3sigma)= 0.9286883
+    F 1( 2sigma 1pi   )= 0.9707231
+    F 2( 2sigma 1pi   )= 0.9707231
+    F 1( 3sigma 3sigma)= 0.9926302
+    F 1( 3sigma 1pi   )= 0.9218313
+    F 2( 3sigma 1pi   )= 0.9218313
+    F 1( 1pi    1pi   )= 1.0180021
+    F 2( 1pi    1pi   )= 1.0180021
+    F 3( 1pi    1pi   )= 1.0180021
+    F 4( 1pi    1pi   )= 1.0180021
+    F 5( 1pi    1pi   )= 0.1069337
+    F 6( 1pi    1pi   )= 0.1069337
+ 
+  Exchange Coulomb interaction in a.u.
+    G 1( 1sigma 2sigma)= 0.1050631
+    G 1( 1sigma 3sigma)= 0.0507081
+    G 1( 1sigma 1pi   )= 0.0561880
+    G 2( 1sigma 1pi   )= 0.0561880
+    G 1( 2sigma 1sigma)= 0.1050631
+    G 1( 2sigma 3sigma)= 0.1868685
+    G 1( 2sigma 1pi   )= 0.1864364
+    G 2( 2sigma 1pi   )= 0.1864364
+    G 1( 3sigma 1sigma)= 0.0507081
+    G 1( 3sigma 2sigma)= 0.1868685
+    G 1( 3sigma 1pi   )= 0.0541051
+    G 2( 3sigma 1pi   )= 0.0541051
+    G 1( 1pi    1sigma)= 0.0561880
+    G 2( 1pi    1sigma)= 0.0561880
+    G 1( 1pi    2sigma)= 0.1864364
+    G 2( 1pi    2sigma)= 0.1864364
+    G 1( 1pi    3sigma)= 0.0541051
+    G 2( 1pi    3sigma)= 0.0541051
+ 
+     ------------------------
+     ENERGY COMPONENTS IN A.U.
+     ------------------------
+     ONE ELECTRON ENERGY      =    -116.1026291639
+     TWO ELECTRON ENERGY      =      36.3043066758
+     NUCLEAR REPULSION ENERGY =       5.1933064051
+                              ------------------------
+     TOTAL ENERGY             =    -74.6050160830
+ 
+     ELECTRON-ELECTRON POTENTIAL ENERGY =     36.3043066758
+     NUCLEUS-ELECTRON POTENTIAL ENERGY  =   -190.7940286049
+     NUCLEUS-NUCLEUS POTENTIAL ENERGY   =      5.1933064051
+                                        ------------------------
+     TOTAL POTENTIAL ENERGY             =   -149.2964155240
+     TOTAL KINETIC ENERGY               =     74.6913994409
+     VIRIAL RATIO (V/T)                 =     -1.9988434631
+
+  Radial part Int Ort        1sigma          2sigma          3sigma          1pi   
+                1sigma      1.0000000
+                2sigma      0.0111481       1.0000000
+                3sigma      0.0021880      -0.0000377       1.0000000
+                1pi         0.0006378      -0.1464477       0.9766729       1.0000000
+ 
+  D:\Program\CMV\MXF\MXFFLE14_1_5b\OUTFILE\FUN_IS1.OUT                                      
+   1sigma Written from record      1 Continue from record   36
+  D:\Program\CMV\MXF\MXFFLE14_1_5b\OUTFILE\FUN_IS2.OUT                                      
+   2sigma Written from record     36 Continue from record   71
+  D:\Program\CMV\MXF\MXFFLE14_1_5b\OUTFILE\FUN_IS3.OUT                                      
+   3sigma Written from record     71 Continue from record  106
+  D:\Program\CMV\MXF\MXFFLE14_1_5b\OUTFILE\FUN_IS4.OUT                                      
+   1pi    Written from record    106 Continue from record  141
