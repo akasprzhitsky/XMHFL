@@ -1,0 +1,117 @@
+ Z= 5.00       Is= 3    Ral= 0.000   N= 600  H=0.040   R=    40.000  Eps=0.1D-07  Izap=  1 Iout= 0     Ifunc=0  Ipot=  3
+ Nz=  0  Nonrel=0  Ipcoef= 0  Alfa=    0.15777801   Beta= 1.000
+
+ Z= 5.  Configuration :     1s 2  2s 2  2p 1
+
+ Electroctatic coefficients   10(   3 Exchange )
+     G    K    Gamma 
+   1s 2s  0   2.0000
+   1s 2p  1   0.3333
+   2s 2p  1   0.3333
+ 
+     F    K    Gamma 
+   1s 1s  0  -1.0000
+   1s 2s  0  -4.0000
+   1s 2p  0  -2.0000
+   2s 2s  0  -1.0000
+   2s 2p  0  -2.0000
+   2p 2p  0   0.0000
+   2p 2p  2   0.0000
+ 
+ N=   1  Shell= 1  E=   12.9193 Teta=-0.133D+01 Tener= 0.000D+00 Imax=   294
+ N=   1  Shell= 2  E=    0.9941 Teta=-0.132D+01 Tener= 0.000D+00 Imax=   292
+ N=   1  Shell= 3  E=    0.5874 Teta=-0.152D+01 Tener= 0.000D+00 Imax=   358
+ N=   2  Shell= 1  E=   15.5121 Teta= 0.167D+00 Tener= 0.000D+00 Imax=     0
+ N=   2  Shell= 2  E=    0.9943 Teta= 0.106D+00 Tener= 0.000D+00 Imax=   354
+ N=   2  Shell= 3  E=    0.6446 Teta= 0.160D+00 Tener= 0.000D+00 Imax=   350
+ N=   3  Shell= 1  E=   15.3633 Teta=-0.968D-02 Tener= 0.500D+00 Imax=     0
+ N=   3  Shell= 2  E=    0.9833 Teta=-0.312D-01 Tener= 0.500D+00 Imax=   354
+ N=   3  Shell= 3  E=    0.6169 Teta=-0.449D-01 Tener= 0.500D+00 Imax=     0
+ N=   4  Shell= 1  E=   15.3806 Teta=-0.371D-02 Tener= 0.188D+00 Imax=     0
+ N=   4  Shell= 2  E=    0.9871 Teta=-0.117D-01 Tener= 0.410D+00 Imax=   355
+ N=   4  Shell= 3  E=    0.6189 Teta=-0.191D-01 Tener= 0.126D+00 Imax=     0
+ N=   5  Shell= 1  E=   15.3906 Teta=-0.126D-03 Tener= 0.500D+00 Imax=   329
+ N=   5  Shell= 2  E=    0.9895 Teta=-0.302D-02 Tener= 0.500D+00 Imax=   359
+ N=   5  Shell= 3  E=    0.6197 Teta=-0.114D-02 Tener= 0.500D+00 Imax=     0
+ N=   6  Shell= 1  E=   15.3907 Teta=-0.574D-04 Tener= 0.723D-01 Imax=   328
+ N=   6  Shell= 2  E=    0.9894 Teta=-0.113D-02 Tener= 0.494D-01 Imax=   361
+ N=   6  Shell= 3  E=    0.6196 Teta=-0.689D-03 Tener= 0.500D+00 Imax=   382
+ N=   7  Shell= 1  E=   15.3905 Teta=-0.107D-04 Tener= 0.500D+00 Imax=     0
+ N=   7  Shell= 2  E=    0.9893 Teta= 0.205D-03 Tener= 0.500D+00 Imax=   356
+ N=   7  Shell= 3  E=    0.6197 Teta=-0.347D-03 Tener= 0.500D+00 Imax=   380
+ N=   8  Shell= 1  E=   15.3906 Teta= 0.319D-05 Tener= 0.534D+00 Imax=   357
+ N=   8  Shell= 2  E=    0.9894 Teta= 0.795D-04 Tener= 0.697D+00 Imax=   354
+ N=   8  Shell= 3  E=    0.6197 Teta=-0.177D-03 Tener= 0.205D+00 Imax=   379
+ N=   9  Shell= 1  E=   15.3907 Teta= 0.468D-05 Tener= 0.500D+00 Imax=     0
+ N=   9  Shell= 2  E=    0.9894 Teta= 0.518D-04 Tener= 0.500D+00 Imax=   353
+ N=   9  Shell= 3  E=    0.6197 Teta=-0.426D-04 Tener= 0.500D+00 Imax=   377
+ N=  10  Shell= 1  E=   15.3907 Teta= 0.166D-05 Tener= 0.226D+00 Imax=     0
+ N=  10  Shell= 2  E=    0.9894 Teta= 0.213D-04 Tener= 0.157D-01 Imax=     0
+ N=  10  Shell= 3  E=    0.6197 Teta=-0.262D-04 Tener= 0.952D+00 Imax=   378
+ N=  11  Shell= 1  E=   15.3907 Teta=-0.722D-06 Tener= 0.500D+00 Imax=     0
+ N=  11  Shell= 2  E=    0.9894 Teta=-0.498D-05 Tener= 0.500D+00 Imax=   354
+ N=  11  Shell= 3  E=    0.6197 Teta=-0.246D-04 Tener= 0.500D+00 Imax=   378
+ N=  12  Shell= 1  E=   15.3907 Teta= 0.105D-06 Tener= 0.563D+00 Imax=     0
+ N=  12  Shell= 2  E=    0.9894 Teta=-0.171D-05 Tener= 0.638D+00 Imax=   360
+ N=  12  Shell= 3  E=    0.6197 Teta=-0.125D-04 Tener= 0.566D+00 Imax=   377
+ N=  13  Shell= 1  E=   15.3907 Teta= 0.196D-06 Tener= 0.500D+00 Imax=     0
+ N=  13  Shell= 2  E=    0.9894 Teta= 0.136D-05 Tener= 0.500D+00 Imax=     0
+ N=  13  Shell= 3  E=    0.6197 Teta=-0.725D-05 Tener= 0.500D+00 Imax=   376
+ N=  14  Shell= 1  E=   15.3907 Teta= 0.161D-06 Tener= 0.500D+00 Imax=     0
+ N=  14  Shell= 2  E=    0.9894 Teta= 0.103D-05 Tener= 0.500D+00 Imax=     0
+ N=  14  Shell= 3  E=    0.6197 Teta=-0.376D-05 Tener= 0.500D+00 Imax=   376
+ N=  15  Shell= 1  E=   15.3907 Teta= 0.996D-07 Tener= 0.500D+00 Imax=     0
+ N=  15  Shell= 2  E=    0.9894 Teta= 0.641D-06 Tener= 0.500D+00 Imax=     0
+ N=  15  Shell= 3  E=    0.6197 Teta=-0.197D-05 Tener= 0.500D+00 Imax=   375
+ N=  16  Shell= 1  E=   15.3907 Teta= 0.548D-07 Tener= 0.500D+00 Imax=     0
+ N=  16  Shell= 2  E=    0.9894 Teta= 0.362D-06 Tener= 0.500D+00 Imax=     0
+ N=  16  Shell= 3  E=    0.6197 Teta=-0.103D-05 Tener= 0.500D+00 Imax=   375
+ N=  17  Shell= 1  E=   15.3907 Teta= 0.302D-07 Tener= 0.500D+00 Imax=     0
+ N=  17  Shell= 2  E=    0.9894 Teta= 0.194D-06 Tener= 0.500D+00 Imax=     0
+ N=  17  Shell= 3  E=    0.6197 Teta=-0.542D-06 Tener= 0.500D+00 Imax=   374
+ N=  18  Shell= 1  E=   15.3907 Teta= 0.138D-07 Tener= 0.787D-01 Imax=     0
+ N=  18  Shell= 2  E=    0.9894 Teta= 0.995D-07 Tener= 0.500D+00 Imax=     0
+ N=  18  Shell= 3  E=    0.6197 Teta=-0.287D-06 Tener= 0.500D+00 Imax=   374
+ N=  19  Shell= 1  E=   15.3907 Teta= 0.501D-09 Tener= 0.500D+00 Imax=   357
+ N=  19  Shell= 2  E=    0.9894 Teta= 0.505D-07 Tener= 0.500D+00 Imax=     0
+ N=  19  Shell= 3  E=    0.6197 Teta=-0.150D-06 Tener= 0.500D+00 Imax=   374
+ N=  20  Shell= 1  E=   15.3907 Teta= 0.310D-09 Tener= 0.000D+00 Imax=   354
+ N=  20  Shell= 2  E=    0.9894 Teta= 0.265D-07 Tener= 0.500D+00 Imax=     0
+ N=  20  Shell= 3  E=    0.6197 Teta=-0.795D-07 Tener= 0.500D+00 Imax=   374
+ N=  21  Shell= 1  E=   15.3907 Teta=-0.627D-10 Tener= 0.500D+00 Imax=   327
+ N=  21  Shell= 2  E=    0.9894 Teta= 0.116D-07 Tener= 0.500D+00 Imax=     0
+ N=  21  Shell= 3  E=    0.6197 Teta= 0.410D-07 Tener= 0.500D+00 Imax=     0
+ N=  22  Shell= 1  E=   15.3907 Teta=-0.507D-10 Tener= 0.000D+00 Imax=   327
+ N=  22  Shell= 2  E=    0.9894 Teta= 0.484D-08 Tener= 0.500D+00 Imax=     0
+ N=  22  Shell= 3  E=    0.6197 Teta= 0.226D-07 Tener= 0.500D+00 Imax=     0
+ R(1)=.865E-06      R(N)=    40.000      Number of iterations =  22    Nucl. R=  0.3877504E-04
+
+  nl     Energy      Radius      Teta     Norm 
+  1s  -15.390672    0.325866 -0.507E-10  0.107E+00
+  2s   -0.989412    1.977064  0.484E-08  0.272E+01
+  2p   -0.619713    2.204758  0.226E-07  0.514E+01
+
+  F0( 1s 1s)= 5.7840889
+  F0( 1s 2s)= 1.2972639
+  F0( 1s 2p)= 1.2002487
+  F0( 2s 2s)= 0.9205244
+  F0( 2s 2p)= 0.8746889
+  F0( 2p 2p)= 0.8353627
+  F2( 2p 2p)= 0.3794557
+  G0( 1s 2s)= 0.0771606
+  G1( 1s 2p)= 0.0863852
+  G1( 2s 2p)= 0.5465480
+
+  Total energy                   -49.058126
+  Kinetic energy                  49.058121
+  Virial                         -2.0000001034
+
+  Radial part Int Ort       1s             2s             2p
+                1s      1.0000000
+                2s     -0.0000001       1.0000000
+                2p      0.2239031      -0.9626823       1.0000000
+
+ Written from record      1 Continue from record    4
+
+
+ Commercial    time :      0.03 min.
