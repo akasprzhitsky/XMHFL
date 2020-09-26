@@ -1,0 +1,129 @@
+ The report of the program Expansion_Function_Spherical_Harmonics ver1.4.0 21.06.
+ 
+  ALFA=0.132778  BETA =1.000000  M =   600  H =0.0400
+  MOLECULAR GRID
+  ALFAnew=0.256007  BETAnew =1.000000  GAMMAnew =0.100000  Mnew =   800  Hnew =0.0400  Ral=  2.955 a.e  Lmin=   0  Lmax=  50
+
+  Configuration :     1sm=  0  2sm=  0
+ The analysis of a radial part of function
+ NumbreZero=            1 NumbreExtrem=            1
+ ZERO  0.000000000000000E+000
+ EXTREMUM   2.18401486818205     
+ POLINIM           1
+   1.00000000000000     
+ The analysis of a radial part of function
+ NumbreZero=            2 NumbreExtrem=            2
+ ZERO  0.000000000000000E+000
+ ZERO   5.30936618292491     
+ EXTREMUM   1.90871897381528     
+ EXTREMUM   11.2774918983256     
+ POLINIM           2
+   1.00000000000000     
+ -0.188346398712530     
+ ZONA           1           1
+ ZONA           1           2
+ ZONA           1           3
+ ZONA           1           4
+ ZONA           1           5
+ ZONA           1           6
+ ZONA           1           7
+ ZONA           1           8
+ ZONA           1           9
+ ZONA           1          10
+ ZONA           1          11
+ ZONA           1          12
+ ZONA           1          13
+ ZONA           1          14
+ ZONA           1          15
+ ZONA           1          16
+ ZONA           1          17
+ ZONA           1          18
+ ZONA           1          19
+ ZONA           1          20
+ ZONA           1          21
+ ZONA           1          22
+ ZONA           1          23
+ ZONA           1          24
+ ZONA           1          25
+ ZONA           1          26
+ ZONA           1          27
+ ZONA           1          28
+ ZONA           1          29
+ ZONA           1          30
+ ZONA           1          31
+ ZONA           1          32
+ ZONA           1          33
+ ZONA           1          34
+ ZONA           1          35
+ ZONA           1          36
+ ZONA           1          37
+ ZONA           1          38
+ ZONA           1          39
+ ZONA           1          40
+ ZONA           1          41
+ ZONA           1          42
+ ZONA           1          43
+ ZONA           1          44
+ ZONA           1          45
+ ZONA           1          46
+ ZONA           1          47
+ ZONA           1          48
+ ZONA           1          49
+ ZONA           1          50
+ ZONA           1          51
+ ZONA           2          52
+ ZONA           2          53
+ ZONA           2          54
+ ZONA           2          55
+ ZONA           2          56
+ ZONA           2          57
+ ZONA           2          58
+ ZONA           2          59
+ ZONA           2          60
+ ZONA           2          61
+ ZONA           2          62
+ ZONA           2          63
+ ZONA           2          64
+ ZONA           2          65
+ ZONA           2          66
+ ZONA           2          67
+ ZONA           2          68
+ ZONA           2          69
+ ZONA           2          70
+ ZONA           2          71
+ ZONA           2          72
+ ZONA           2          73
+ ZONA           2          74
+ ZONA           2          75
+ ZONA           2          76
+ ZONA           2          77
+ ZONA           2          78
+ ZONA           2          79
+ ZONA           2          80
+ ZONA           2          81
+ ZONA           2          82
+ ZONA           2          83
+ ZONA           2          84
+ ZONA           2          85
+ ZONA           2          86
+ ZONA           2          87
+ ZONA           2          88
+ ZONA           2          89
+ ZONA           2          90
+ ZONA           2          91
+ ZONA           2          92
+ ZONA           2          93
+ ZONA           2          94
+ ZONA           2          95
+ ZONA           2          96
+ ZONA           2          97
+ ZONA           2          98
+ ZONA           2          99
+ ZONA           2         100
+ ZONA           2         101
+ ZONA           2         102
+ Files writing expansion function
+    1s(m=  0) D:\Program\CMV\EFSH\OUTFILE\1S0.OUT                                                       
+    2s(m=  0) D:\Program\CMV\EFSH\OUTFILE\2S0.OUT                                                       
+ 
+ Commercial    time :     12.80 min.
